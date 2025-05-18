@@ -8,6 +8,7 @@ For any questions, please reach out to Anusha Dandapani (dandapani@unicc.org), G
 
 ## Table of Contents
 - [Challenge Statement](#challenge-statement)
+- [Our Approach](#our-approach)
 - [GitHub Repository](#github-repository)
 - [Provided Datasets](#provided-datasets)
 - [Submission](#submission)
@@ -30,23 +31,28 @@ Your mission: **Finish and innovate on the starter code** (or create your own ap
 
 ---
 
-## Submission
+## Our Approach
 
-Your submission must contain the code you used to train your model, model weights and a demo script if applicable (.pt files or similar is great), a write up describing what you did and how you did it, and optionally a short video demo and presentation.
+### Overview
+We developed a quantum-enhanced machine learning framework that leverages the power of Variational Quantum Algorithms (VQAs) to improve traditional classification tasks. Our solution combines classical ML preprocessing techniques with quantum circuit optimization to create a hybrid model with superior performance.
 
-You are not required to use the sample code provided but **please make a public fork of the repository for your submission.**
+### Methodology
+1. **Data Preprocessing**: 
+   - Feature selection using Principal Component Analysis (PCA)
+   - Data normalization and encoding optimized for quantum circuits
 
-Feel free to try any combination of classification, clustering, supervised/unsupervised learning, unique backpropagation techniques, quantum circuit designs, etc.
+2. **Quantum Architecture**:
+   - Custom-designed variational quantum circuit with optimized depth
+   - Parameterized rotation gates with gradient-based optimization
 
----
+3. **Training Process**:
+   - Hybrid quantum-classical backpropagation algorithm
+   - Parameter shift rule for computing quantum gradients
 
-## Sample Code
+4. **Evaluation Framework**:
+   - Comprehensive metrics suite including F1-score, precision, and recall
+   - Explainability analysis using quantum-adapted SHAP values
 
-Our sample code for a VQA classifier will be available in the [GitHub Repository](https://github.com/UN-ICC/FLIQ-Virtual-Hackathon).  
-
-Use them as a foundation or as inspiration but don't be afraid to innovate or try your own unique solution.
-
-Keep in mind you will need to be using an environment capable of running torch or a similar ML library and qiskit. Additionally, as of 2025, qiskit has just moved to 2.x.x, meaning deprecated code is common and documentation/functionality can differ between versions.
 
 ---
 
