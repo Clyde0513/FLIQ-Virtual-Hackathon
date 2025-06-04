@@ -25,7 +25,7 @@
 
 ## Project Overview
 
-This project addresses the challenge of enhancing machine learning classifiers using Variational Quantum Algorithms (VQAs) for drug-induced autoimmunity prediction. We combined classical machine learning techniques with quantum computing to create a hybrid model that surpasses traditional classifiers in both performance and interpretability.
+This project, developed in collaboration with Sanskriti Shindadkar, addresses the challenge of enhancing machine learning classifiers using Variational Quantum Algorithms (VQAs) for drug-induced autoimmunity prediction. We combined classical machine learning techniques with quantum computing to create a hybrid model that surpasses traditional classifiers in both performance and interpretability.
 
 We selected the Drug Induced Autoimmunity Prediction Dataset, which contains RDKit molecular descriptors that allow us to predict potential autoimmune reactions to pharmaceutical compounds. This application domain highlights the potential of quantum computing to contribute to critical healthcare challenges.
 
@@ -170,7 +170,7 @@ python demo.py
 
 ## Acknowledgments
 
-This project was developed for the Quantum Coalition Future Leaders in Quantum (QC-FLIQ) Virtual Hackathon, where it received an **Honorable Mention**. We extend our sincere gratitude to:
+This project was developed as a collaboration between team members and Sanskriti Shindadkar for the Quantum Coalition Future Leaders in Quantum (QC-FLIQ) Virtual Hackathon, where it received an **Honorable Mention**. We extend our sincere gratitude to:
 
 - **UN International Computing Centre (UN ICC)** and **International Telecommunication Union (ITU)** for organizing this valuable opportunity to explore quantum computing applications and recognizing our work with an Honorable Mention
 - The hackathon organizers and mentors for their guidance and support throughout the competition
