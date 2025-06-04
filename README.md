@@ -1,10 +1,11 @@
 # Quantum-Enhanced Drug Autoimmunity Prediction: FLIQ Hackathon Submission
 
+![Honorable Mention](https://img.shields.io/badge/Award-Honorable%20Mention-yellow)
 ![Quantum Machine Learning](https://img.shields.io/badge/Quantum-Machine%20Learning-blue)
 ![Qiskit](https://img.shields.io/badge/Qiskit-2.0.1-6929C4)
 ![Python](https://img.shields.io/badge/Python-3.8+-yellow)
 
-> **This project was developed as part of the Quantum Coalition Future Leaders in Quantum (QC-FLIQ) Virtual Hackathon, organized by the United Nations International Computing Centre (UN ICC) and the International Telecommunication Union (ITU).**
+> **This project was developed as part of the Quantum Coalition Future Leaders in Quantum (QC-FLIQ) Virtual Hackathon, organized by the United Nations International Computing Centre (UN ICC) and the International Telecommunication Union (ITU), where it received an Honorable Mention.**
 
 ---
 
@@ -115,7 +116,7 @@ Throughout the development of this project, we encountered several significant c
 
 Our quantum-enhanced classifier achieved promising results on the Drug Induced Autoimmunity Prediction task:
 
-- **Classification Accuracy**: 85.7% on the test set
+- **Classification Accuracy**: 85.7% on the training set
 - **F1-Score**: 0.83, balancing precision and recall
 - **Performance Gain**: 7.2% improvement over classical ML baselines (Random Forest, SVM)
 
@@ -169,10 +170,10 @@ python demo.py
 
 ## Acknowledgments
 
-This project was developed for the Quantum Coalition Future Leaders in Quantum (QC-FLIQ) Virtual Hackathon. We extend our sincere gratitude to:
+This project was developed for the Quantum Coalition Future Leaders in Quantum (QC-FLIQ) Virtual Hackathon, where it received an **Honorable Mention**. We extend our sincere gratitude to:
 
-- **UN International Computing Centre (UN ICC)** and **International Telecommunication Union (ITU)** for organizing this valuable opportunity to explore quantum computing applications
-- The hackathon organizers and mentors for their guidance and support
+- **UN International Computing Centre (UN ICC)** and **International Telecommunication Union (ITU)** for organizing this valuable opportunity to explore quantum computing applications and recognizing our work with an Honorable Mention
+- The hackathon organizers and mentors for their guidance and support throughout the competition
 - Qiskit community for providing excellent documentation and resources
 
 Special thanks to Anusha Dandapani, Gillian Makamara, Devyani Rastogi, and Luke Sebold for their coordination and support throughout the hackathon.
